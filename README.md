@@ -2,27 +2,33 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kainat%20Umar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Software%20Engineer&descAlignY=56&descSize=18"/>
 
-# Hi there 👋 I'm Kainat Umar
+# 👋 Hi, I'm Kainat Umar
 
-### Computer Science Graduate • AI/ML Engineer • Software Engineer
+### Building intelligent applications with AI, NLP, LLMs & Full-Stack Development
 
-Building intelligent applications using **LLMs, RAG, NLP, Voice AI and Full-Stack Development.**
+🎓 **Computer Science Graduate** • 📍 **Lahore, Pakistan**
 
-<p>
+💼 **Open to:** AI/ML Engineer • Software Engineer • Backend Engineer
 
-<a href="https://www.linkedin.com/in/kainat-umar/">
-<img src="https://img.shields.io/badge/LinkedIn-BD9A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</div>
 
-<a href="mailto:kainatumarkhaan@gmail.com">
-<img src="https://img.shields.io/badge/Email-BD9A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+---
 
-<a href="https://github.com/KainatUmar1">
-<img src="https://img.shields.io/badge/GitHub-BD9A8A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<div align="center">
 
-</p>
+| 🧠 AI | 💻 Development | ☁️ Cloud |
+|:----:|:--------------:|:--------:|
+| LLMs • RAG • NLP • Voice AI | React • Node.js • Express • REST APIs | Azure • AWS • GCP |
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BD9A8A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kainat-umar/)
+[![GitHub](https://img.shields.io/badge/GitHub-BD9A8A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KainatUmar1)
+[![Email](https://img.shields.io/badge/Email-BD9A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kainatumarkhaan@gmail.com)
+
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=KainatUmar1&color=bd9a8a&style=flat-square&label=Profile+Views"/>
 
@@ -30,35 +36,12 @@ Building intelligent applications using **LLMs, RAG, NLP, Voice AI and Full-Stac
 
 ---
 
-# 👩🏻‍💻 About Me
-
-```ts
-const kainat = {
-    role: "AI/ML Engineer & Software Engineer",
-
-    currentlyWorkingOn: [
-        "Automated Urdu IVR System",
-        "LLM Applications",
-        "Voice AI",
-        "RAG Pipelines"
-    ],
-
-    interestedIn: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Software Engineering",
-        "Backend Development"
-    ],
-
-    openTo: [
-        "AI Engineer",
-        "ML Engineer",
-        "Software Engineer",
-        "Backend Engineer"
-    ]
-}
-```
+## 👩‍💻 About Me
+> I'm passionate about building intelligent software that combines modern AI with practical engineering.
+>
+> My recent work focuses on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Natural Language Processing (NLP)**, and **Voice AI**, while maintaining a strong foundation in full-stack and backend development.
+>
+> I'm currently looking for opportunities where I can contribute to impactful AI products and continue growing as an engineer.
 
 ---
 
